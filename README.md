@@ -1,6 +1,6 @@
 # ReDoVi - Dolby Vision Video Processing Tool
 
-ReDoVi is a Windows-based GUI application designed to process Dolby Vision (DoVi) video files. It allows users to extract, re-encode, and remux Dolby Vision metadata while maintaining high-quality video and audio. The tool supports CUDA, QSV, and CPU encoding modes, making it versatile for different hardware configurations.
+ReDoVi is a Windows-based GUI application designed to process Dolby Vision (DoVi) HDR video files. It will extract, re-encode (Based on quality choice), and remux Dolby Vision metadata while maintaining high-quality video and audio. The tool supports CUDA, QSV, and CPU encoding modes, making it versatile for different hardware configurations. Should convert to Profile 8 if it is not.
 
 ## Features
 
